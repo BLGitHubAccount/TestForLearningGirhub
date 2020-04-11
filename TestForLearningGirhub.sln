@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30002.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestForLearningGirhub", "TestForLearningGirhub\TestForLearningGirhub.csproj", "{1A222252-6B44-444E-A1BF-5EF5E6D7A6DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A222252-6B44-444E-A1BF-5EF5E6D7A6DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A222252-6B44-444E-A1BF-5EF5E6D7A6DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A222252-6B44-444E-A1BF-5EF5E6D7A6DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A222252-6B44-444E-A1BF-5EF5E6D7A6DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {59F2630C-5901-4AEB-80C4-A3CF79EB3B40}
+	EndGlobalSection
+EndGlobal
